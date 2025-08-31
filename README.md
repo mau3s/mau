@@ -16,12 +16,8 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-## 📊 GitHub Stats
-![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=mau3s_icons=true&count_private=true&include_all_commits=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mau3s&layout=compact&theme=radical)
----
+
 
 ## 🌍 Find me around the web
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauro__jj/)
