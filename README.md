@@ -1,6 +1,6 @@
 # Hey there! 👋  I'm Mauro  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Mauro!;3D+Artist+%26+Game+Dev;Unreal+Enthusiast;Interactive+World+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Mauro!;3D+Artist+%26+Game+Dev;Unreal+3DArtistic;Interactive+World+Creator)](https://git.io/typing-svg)
 
 💡 Passionate about crafting **immersive 3D worlds** and developing engaging **video games**.  
 🌱 Currently exploring **Unreal Engine, Blender, and interactive gameplay design**.  
