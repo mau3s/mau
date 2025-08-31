@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Mauro  
+# Hey there! 💜  I'm Mauro  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Mauro!;3D+Artist+%26+Game+Dev;Unreal+Enthusiast;Interactive+World+Creator)](https://git.io/typing-svg)
 
@@ -18,10 +18,9 @@
 
 
 ## 📊 GitHub Stats
-![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mau3s_GITHUB&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=mau3s_icons=true&count_private=true&include_all_commits=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mau3s_GITHUB&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mau3s&layout=compact&theme=radical)
 ---
 
 ## 🌍 Find me around the web
