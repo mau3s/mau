@@ -1,18 +1,17 @@
 # Hey there! 👋 I'm Mauro  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Faris!;Software+Developer;Tech+Explorer;AI+%2F+ML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Mauro!;3D+Artist+%26+Game+Dev;Unreal+Enthusiast;Interactive+World+Creator)](https://git.io/typing-svg)
 
-💡 Passionate about crafting mobile apps and building modern web experiences.  
-🌱 Currently exploring **Flutter, Next.js, and UI/UX design principles**.  
-🎯 Goal: Deliver smooth user experiences, grow as a full-stack developer, and build apps that people love to use.   
+💡 Passionate about crafting **immersive 3D worlds** and developing engaging **video games**.  
+🌱 Currently exploring **Unreal Engine, Blender, and interactive gameplay design**.  
+🎯 Goal: Build visually stunning and playable 3D experiences that captivate players and bring ideas to life.  
 
 ---
 
 ## 🛠️ Tech Stack
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
